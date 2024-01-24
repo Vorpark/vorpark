@@ -36,10 +36,10 @@
 
 ### 💻 Пройденные курсы:
 
-| Курсы                                                                                                                                             | Дата              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------| :---------------: |
-| <a href="https://www.youtube.com/watch?v=AopeJjkcRvU&ab_channel=DotNetMastery">Introduction to ASP.NET Core MVC</a>                               | 01/2024 - 01/2024 |
-| <a href="https://www.youtube.com/watch?v=_uZYOgzYheU&ab_channel=DotNetMastery">RESTful API with .NET Core</a>                                     | 01/2024 - xx/2024 |
+| Курсы                                                                                                                     | Репозиторий                                                                               | Дата                    |
+| --------------------------------------------------------------------------------------------------------------------------| :-----------------------------------------------------------------------------------------| :---------------------: |
+| <a href="https://www.youtube.com/watch?v=AopeJjkcRvU&ab_channel=DotNetMastery">Introduction to ASP.NET Core MVC</a>       | <a href="https://github.com/Vorpark/Bulky_MVC">Тык</a>                                    | 07/01/2024 - 19/01/2024 |
+| <a href="https://www.youtube.com/watch?v=_uZYOgzYheU&ab_channel=DotNetMastery">RESTful API with .NET Core</a>             | <a href="https://github.com/Vorpark/MagicVilla_RESTful-API">Тык</a>                       | 23/01/2024 - xx/xx/2024 |
 
 ---
 
