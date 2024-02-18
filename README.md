@@ -1,4 +1,4 @@
-# Привет, меня зовут Никита!  <img src="https://media3.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e476fx3tymiglymv50ll8w3p10utotuf9zsry4iw9ly&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px" height="30px">
+# Приветствую!  <img src="https://media3.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e476fx3tymiglymv50ll8w3p10utotuf9zsry4iw9ly&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px" height="30px">
 
 ---
 
