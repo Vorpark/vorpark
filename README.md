@@ -40,6 +40,7 @@
 | --------------------------------------------------------------------------------------------------------------------------| :-----------------------------------------------------------------------------------------| :---------------------: |
 | <a href="https://www.youtube.com/watch?v=AopeJjkcRvU&ab_channel=DotNetMastery">Introduction to ASP.NET Core MVC</a>       | <a href="https://github.com/Vorpark/Bulky_MVC">Bulky_MVC</a>                              | 07/01/2024 - 19/01/2024 |
 | <a href="https://www.youtube.com/watch?v=_uZYOgzYheU&ab_channel=DotNetMastery">RESTful API with .NET Core</a>             | <a href="https://github.com/Vorpark/MagicVilla_RESTful-API">MagicVilla_RESTful-API</a>    | 24/01/2024 - 26/01/2024 |
+| <a href="https://sachkov-dotnet.vercel.app/">Sachkov Course</a>                                                           | <a href="https://github.com/Vorpark/PetFinder">PetFinder</a>                              | 14/02/2025 - ../../2025 |
 
 ---
 
